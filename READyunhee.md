@@ -3,6 +3,7 @@
 ### 기본정보
 * 의류학과 22학번
 * 01040758553
+* yunheechoi@snu.ac.kr
 * @yunheee_c  [인스타그램](https://www.instagram.com/yunheee_c/)
 * [블로그](https://blog.naver.com/yunheeec)
 
