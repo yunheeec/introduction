@@ -5,7 +5,6 @@
 * 01040758553
 * yunheechoi@snu.ac.kr
 * @yunheee_c  [인스타그램](https://www.instagram.com/yunheee_c/)
-* [블로그](https://blog.naver.com/yunheeec)
 
 ### 수강과목
 * 의류전공
